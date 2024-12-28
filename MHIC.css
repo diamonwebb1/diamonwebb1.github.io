@@ -1,0 +1,1065 @@
+.mediaViewInfo {
+	--web-view-name: D.Webb Intern;
+	--web-view-id: DWebb_Intern;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: DWebb_Intern;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#DWebb_Intern {
+	position: absolute;
+	width: 1920px;
+	height: 5699px;
+	background-color: rgba(251,251,251,1);
+	overflow: hidden;
+	--web-view-name: D.Webb Intern;
+	--web-view-id: DWebb_Intern;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 519px;
+	height: 1px;
+	left: 1490.75px;
+	top: 1327px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Photo_Frame_No_Photo_2 {
+	position: absolute;
+	width: 1468.259px;
+	height: 1451.934px;
+	left: 839px;
+	top: -51.967px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(200,228,206,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+}
+#Home {
+	left: 613px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#About {
+	left: 802px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Inquire {
+	left: 1241px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Services {
+	left: 1013px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#n__minimal___unique {
+	left: 156px;
+	top: 458px;
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 119px;
+	color: rgba(124,124,124,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 65px;
+	left: 315px;
+	top: 777px;
+}
+#Learn_More {
+	left: 382px;
+	top: 795px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Text {
+	left: 650px;
+	top: 506px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 122px;
+	color: rgba(68,109,65,1);
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(124,188,106,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 313px;
+	left: 141.75px;
+	top: 1284px;
+}
+#Rectangle_6 {
+	fill: rgba(200,228,206,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 738px;
+	height: 566px;
+	left: 187.75px;
+	top: 1327px;
+}
+#Hi_Im_Diamon {
+	left: 993.75px;
+	top: 1299px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#My_name_is_Diamon_Webb_the_own {
+	left: 993.75px;
+	top: 1398px;
+	position: absolute;
+	overflow: visible;
+	width: 874px;
+	height: 424px;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 65px;
+	left: 1092.75px;
+	top: 1800px;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 65px;
+	left: 1516.75px;
+	top: 1801px;
+}
+#Services_z {
+	left: 1177.75px;
+	top: 1818px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Inquire_ {
+	left: 1607.75px;
+	top: 1819px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Specializing_in {
+	left: 331px;
+	top: 418px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+#Designs {
+	left: 371px;
+	top: 658px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+#Rectangle_26 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 622px;
+	height: 778px;
+	left: 266px;
+	top: 2353px;
+}
+#Rectangle_30 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 622px;
+	height: 778px;
+	left: 1030px;
+	top: 2353px;
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 454.004px;
+	left: 960.5px;
+	top: 2515.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_31 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 622px;
+	height: 778px;
+	left: 269px;
+	top: 3330px;
+}
+#Rectangle_32 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 622px;
+	height: 778px;
+	left: 1033px;
+	top: 3330px;
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 454.004px;
+	left: 963.5px;
+	top: 3492.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 551.502px;
+	height: 2px;
+	left: 686.25px;
+	top: 3238.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Branding {
+	left: 305px;
+	top: 3036px;
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#Social_media_management {
+	left: 305px;
+	top: 3966px;
+	position: absolute;
+	overflow: visible;
+	width: 416px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#Marketing_Material {
+	left: 1077px;
+	top: 2981px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#WEB_DESIGN {
+	left: 1077px;
+	top: 4005px;
+	position: absolute;
+	overflow: visible;
+	width: 364px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(112,112,112,1);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 519px;
+	height: 1px;
+	left: 0.5px;
+	top: 2216.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 519px;
+	height: 1px;
+	left: 1401px;
+	top: 2216.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#We_offer {
+	left: 726px;
+	top: 2174px;
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 99px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_34 {
+	fill: rgba(200,228,206,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 331px;
+	left: 0px;
+	top: 5368px;
+}
+#Home_bi {
+	left: 772px;
+	top: 5451px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#About_bj {
+	left: 867px;
+	top: 5451px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Inquire_bk {
+	left: 1080px;
+	top: 5451px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Services_bl {
+	left: 964px;
+	top: 5451px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Icon_akar-facebook-fill {
+	fill: rgba(0,0,0,1);
+}
+.Icon_akar-facebook-fill {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 308px;
+	top: 5548px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_akar-instagram-fill {
+	fill: rgba(0,0,0,1);
+}
+.Icon_akar-instagram-fill {
+	overflow: visible;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 354px;
+	top: 5549px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SITE_BY_CHRISTEL_AESTHETIC_DES {
+	left: 758px;
+	top: 5581px;
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Our_Policy {
+	left: 908px;
+	top: 5513px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#our_work {
+	left: 113px;
+	top: 4408px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Ferly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 99px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_36 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	height: 488px;
+	left: 113px;
+	top: 4606px;
+}
+#Rectangle_37 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	height: 488px;
+	left: 1190px;
+	top: 4606px;
+}
+#Image {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 1217px;
+	top: 4637px;
+	overflow: visible;
+}
+#METADATA {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_bw {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 140px;
+	top: 4640px;
+	overflow: visible;
+}
+#METADATA_bx {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_by {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_35 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	height: 488px;
+	left: 656px;
+	top: 4606px;
+}
+#Rectangle_38 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(150,203,166,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	height: 65px;
+	left: 834px;
+	top: 5200px;
+}
+#Portfolio {
+	left: 918px;
+	top: 5218px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1920.005px;
+	height: 10px;
+	left: 0px;
+	top: 4279px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Image_b {
+	position: absolute;
+	width: 703px;
+	height: 506px;
+	left: 205px;
+	top: 1359px;
+	overflow: visible;
+}
+#METADATA_b {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_b {
+	position: absolute;
+	width: 703px;
+	height: 506px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_ca {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 300px;
+	top: 2388px;
+	overflow: visible;
+}
+#METADATA_ca {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_ca {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_cb {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 1069px;
+	top: 2388px;
+	overflow: visible;
+}
+#METADATA_cb {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_cb {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_cc {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 299px;
+	top: 3365px;
+	overflow: visible;
+}
+#METADATA_cd {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_ce {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_cf {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 1068px;
+	top: 3365px;
+	overflow: visible;
+}
+#METADATA_cg {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_ch {
+	position: absolute;
+	width: 554px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_ci {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 683px;
+	top: 4637px;
+	overflow: visible;
+}
+#METADATA_cj {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+#Placement_Area_ck {
+	position: absolute;
+	width: 554px;
+	height: 426px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ALT_2_BLACK10x {
+	position: absolute;
+	width: 542px;
+	height: 542px;
+	left: -78px;
+	top: -188px;
+	overflow: visible;
+}
+#ALT_2_BLACK10x_cm {
+	position: absolute;
+	width: 542px;
+	height: 542px;
+	left: 84px;
+	top: 5217px;
+	overflow: visible;
+}

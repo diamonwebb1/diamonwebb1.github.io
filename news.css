@@ -1,0 +1,83 @@
+#nav_menu ul {
+    list-style-type: none;
+}
+#nav_menu ul li {
+    float: left;
+}
+#nav_menu ul li a {
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white;
+}
+#nav_menu ul li a.lastitem {
+    border-right: none;
+}
+#nav_menu ul li a.current {
+    color: yellow;
+}
+aside ol {
+    list-style-type: upper-roman;
+}
+aside ul {
+    list-style-type: square;
+}
+body {
+    width: 95%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+    margin: 15px auto;
+    padding: 1.5em 1.5em 1.5em;
+}
+article {
+    clear: left;
+    width: 75%;
+    float: left;
+    column-count: 3;
+    column-rule: 4px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+article h1 {
+    border-top: 2px solid blue;
+    color: blue;
+    column-span: all;
+}
+article h2 {
+    color: blue;
+}
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+article p::first-letter {
+    font-family: Times New Roman;
+    font-size: 2em;
+    color: #3d3d3d;
+}
+aside {
+    width: 20%;
+    float: right;
+    background-color: lightblue;
+    padding: 1em 1em 1em;
+    border: 3px solid blue
+}
+footer { 
+    clear: both;
+    border-top: 2px solid blue;
+}
+footer p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
+footer p {
+    text-align: center;
+    font-size: 80%;
+}
